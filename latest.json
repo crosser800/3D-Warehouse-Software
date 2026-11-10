@@ -1,6 +1,6 @@
 {
   "version": "1.1.1",
-  "installerUrl": "https://github.com/crosser800/3D-Warehouse-Software/releases/download/v1.1.1/3D-Web-Warehouse_1.1.0_x64-setup.exe",
-  "sha256": "8EA22611A713857EE102D640872E6C60FDD5299D302F944F2FF73F8D65A14BD1",
-  "releaseNotes": "Updated Tauri warehouse application."
+  "installerUrl": "https://github.com/crosser800/3D-Warehouse-Software/releases/download/v1.1.1/3D-Web-Warehouse.exe",
+  "sha256": "7ACE6BF360477E105482977E6AD87CB8E160C492711E79838768FC319AE9DF53",
+  "releaseNotes": "Updated 3D-Web-Warehouse application."
 }
