@@ -1,6 +1,6 @@
 {
   "version": "1.1.2",
-  "installerUrl": "https://github.com/crosser800/3D-Warehouse-Software/releases/download/v1.1.2/3D-Web-Warehouse.exe",
-  "sha256": "B908A8A08EC4665143BC8EB3F10E5EE182CA58E79710DD6B285EA96C4803A413",
+  "installerUrl": "https://github.com/crosser800/3D-Warehouse-Software/releases/download/v1.1.2/3D-Web-Warehouse_1.1.2_x64-setup.exe",
+  "sha256": "9D4E2AC8C07441BDE000D3C2552D6DB1AE12B4AB056408F836713409EBD405E6",
   "releaseNotes": "Added smartphone and tablet support, responsive navigation, and launcher installation-folder selection."
 }
